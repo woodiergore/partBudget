@@ -1,0 +1,15 @@
+D:\Projects\csharp\partBudget\bin\Debug\net7.0\partBudget.exe
+D:\Projects\csharp\partBudget\bin\Debug\net7.0\partBudget.deps.json
+D:\Projects\csharp\partBudget\bin\Debug\net7.0\partBudget.runtimeconfig.json
+D:\Projects\csharp\partBudget\bin\Debug\net7.0\partBudget.dll
+D:\Projects\csharp\partBudget\bin\Debug\net7.0\partBudget.pdb
+D:\Projects\csharp\partBudget\obj\Debug\net7.0\partBudget.csproj.AssemblyReference.cache
+D:\Projects\csharp\partBudget\obj\Debug\net7.0\partBudget.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\csharp\partBudget\obj\Debug\net7.0\partBudget.AssemblyInfoInputs.cache
+D:\Projects\csharp\partBudget\obj\Debug\net7.0\partBudget.AssemblyInfo.cs
+D:\Projects\csharp\partBudget\obj\Debug\net7.0\partBudget.csproj.CoreCompileInputs.cache
+D:\Projects\csharp\partBudget\obj\Debug\net7.0\partBudget.dll
+D:\Projects\csharp\partBudget\obj\Debug\net7.0\refint\partBudget.dll
+D:\Projects\csharp\partBudget\obj\Debug\net7.0\partBudget.pdb
+D:\Projects\csharp\partBudget\obj\Debug\net7.0\partBudget.genruntimeconfig.cache
+D:\Projects\csharp\partBudget\obj\Debug\net7.0\ref\partBudget.dll
